@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoPEP8",
+		"Bootstrap 3 Snippets",
+		"C++ Starting Kit",
+		"CSScomb",
+		"CTags",
+		"Emmet",
+		"Git",
+		"GitHubinator",
+		"jQuery Snippets pack",
+		"LaTeXTools",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"PackageResourceViewer",
+		"php-snippets",
+		"ProjectManager",
+		"SideBarEnhancements",
+		"SublimePythonIDE"
+	]
+}
